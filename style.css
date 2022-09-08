@@ -1,24 +1,30 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 50px;
 }
-.name-color{
+
+.name-color {
     color: orange;
 }
-section{
+
+section {
     display: flex;
 }
-.half-width{
+
+.half-width {
     padding: 0% 0% 0% 5%;
     width: 50%;
 }
-.half-width img{
+
+.half-width img {
     padding: 5%;
     width: 80%;
 }
-.link-button{
+
+.link-button {
     text-decoration: none;
     color: #fff;
     font-weight: 700;
