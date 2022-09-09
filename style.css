@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flex-2-containt {
     display: flex;
     margin-bottom: 150px;
 }
@@ -50,4 +50,17 @@ section {
 .middel-banner div h3{
     color: rgb(65, 61, 61);
     font-style: italic;
+}
+
+.work-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.work-item{
+    width: 50%;
+    margin: 0% 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 20px gray;
 }
