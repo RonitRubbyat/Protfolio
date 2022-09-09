@@ -1,0 +1,28 @@
+.navi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(tomato, rgba(247, 110, 95, 0.904));
+}
+
+header h1{
+    margin: 0px 0px 0px 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.navi-logo{
+    color: #fff;
+    text-decoration: none;
+}
+
+.contant{
+    display: flex;
+    list-style: none;
+}
+
+div ul li{
+    color: #fff;
+    margin: 0px 20px;
+    /* padding: 0px 0px 0px 15px; */
+}
