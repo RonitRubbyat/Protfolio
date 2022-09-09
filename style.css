@@ -11,6 +11,10 @@ h1 {
     color: orange;
 }
 
+.fatema{
+    font-weight: 600;
+}
+
 .flex-2-containt {
     display: flex;
     margin-bottom: 150px;
@@ -75,4 +79,10 @@ h1 {
     border-left: 5px solid;
     border-image: linear-gradient(royalblue, cyan);
     border-image-slice: 1;
+}
+
+footer p {
+    color: rgb(73, 73, 73);
+    text-align: center;
+    font-weight: 700;
 }
