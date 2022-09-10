@@ -97,6 +97,12 @@ h1 {
 }
 
 /* Poem.html*/
+#poem-choos{
+    margin: 5px 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 .text-align{
     text-align: center;
 }
