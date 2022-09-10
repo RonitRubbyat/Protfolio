@@ -1,3 +1,5 @@
+/* index */
+
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -88,4 +90,13 @@ h1 {
     border-image-slice: 1;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+
+/* Poem.html*/
+.text-align{
+    text-align: center;
+}
+
+.text-align h1{
+    font-size: 30px;
 }
