@@ -103,12 +103,13 @@ h1 {
     padding-right: 15px;
 }
 
-.text-align{
-    text-align: center;
-}
-
-.text-align h1{
-    font-size: 30px;
+.h3-color{
+    font-size: 17px;
+    padding: 5px;
+    color: #fff;
+    background-image: linear-gradient(gray, black);
+    width: fit-content;
+    border-radius: 5px;
 }
 
 .prothom-borsha ul li a{
@@ -124,4 +125,12 @@ h1 {
 .pothiker-hawai-mithai ul li a{
     color: #000;
     text-decoration: solid;
+}
+
+.text-align{
+    text-align: center;
+}
+
+.text-align h1{
+    font-size: 30px;
 }
