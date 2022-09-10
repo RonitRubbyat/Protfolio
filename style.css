@@ -92,6 +92,10 @@ h1 {
     border-bottom-right-radius: 5px;
 }
 
+#eq-1{ /*Mathematics equation*/
+    width: 160px;
+}
+
 /* Poem.html*/
 .text-align{
     text-align: center;
