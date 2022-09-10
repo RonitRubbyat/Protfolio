@@ -21,8 +21,9 @@ header h1{
     list-style: none;
 }
 
-div ul li{
+div ul li, a{
     color: #fff;
     margin: 0px 20px;
+    text-decoration: none;
     /* padding: 0px 0px 0px 15px; */
 }
