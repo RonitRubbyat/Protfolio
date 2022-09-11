@@ -134,3 +134,10 @@ h1 {
 .text-align h1{
     font-size: 30px;
 }
+
+/* short-stoyr */
+
+.text-align-h1{
+    text-align: center;
+    font-size: 30px;
+}
