@@ -21,9 +21,13 @@ header h1{
     list-style: none;
 }
 
-.navi-list-color ul li, .navi-contant-link{
-    color: #fff;
+.navi-list-color ul li{
     margin: 0px 15px;
+}
+
+.navi-list-color ul li, .navi-contant-link{
+    color: #fff;   
     text-decoration: none;
+    align-self: center;
     /* padding: 0px 0px 0px 15px; */
 }
