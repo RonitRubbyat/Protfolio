@@ -43,7 +43,15 @@ h1 {
     font-weight: 700;
     background-image: linear-gradient(rgb(255, 117, 102), rgb(153, 17, 2));
     padding: 8px 30px;
-    border-radius: 85px;
+    border-radius: 10px;
+}
+
+.link-button:hover{
+    background-image: linear-gradient(orangered, rgb(153, 17, 2));
+}
+
+.link-button:focus{
+    background-image: -moz-linear-gradient(orangered, rgb(153, 17, 2));
 }
 
 .top-banner{
@@ -133,6 +141,15 @@ h1 {
 
 .text-align h1{
     font-size: 30px;
+}
+
+section div ul li a:focus{
+    font-size: large;
+    text-shadow: 4px 4px 2px black;
+}
+
+section div ul li a:visited{
+    color: rgb(46, 46, 46);
 }
 
 /* short-stoyr */

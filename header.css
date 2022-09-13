@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: linear-gradient(tomato, rgba(247, 110, 95, 0.904));
+    background-image: linear-gradient(tomato, #fa6b58);
 }
 
 header h1{
@@ -30,4 +30,8 @@ header h1{
     text-decoration: none;
     align-self: center;
     /* padding: 0px 0px 0px 15px; */
+}
+
+.navi-contant-link:focus{
+    font-size: large;
 }
