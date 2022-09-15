@@ -1,7 +1,16 @@
+footer{
+    padding: 10px 0;
+    background-color: black;
+}
+
 footer p {
     margin: 0;
     padding: 0;
-    color: rgb(73, 73, 73);
+    color: whitesmoke;
     text-align: center;
     font-weight: 700;
+}
+
+footer p span{
+    color: rgb(115, 115, 209);
 }
