@@ -45,13 +45,11 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: black;
-    background-color: lavender;
+    background-color: orangered;
     border-radius: 5px;
 }
 
 nav ul li a:focus{
-    color: black;
-    background-color: lavender;
+    background-color: orangered;
     border-radius: 5px;
 }
