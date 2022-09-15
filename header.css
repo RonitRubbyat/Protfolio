@@ -34,9 +34,22 @@ header h1{
     color: #fff;   
     text-decoration: none;
     align-self: center;
-    /* padding: 0px 0px 0px 15px; */
+}
+
+nav ul li a{
+    padding: 0 10px;
 }
 
 .navi-contant-link:focus{
     font-size: large;
+}
+
+nav ul li a:hover{
+    background-color: orangered;
+    border-radius: 5px;
+}
+
+nav ul li a:focus{
+    background-color: orangered;
+    border-radius: 5px;
 }
