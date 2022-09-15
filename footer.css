@@ -1,6 +1,6 @@
 footer{
     padding: 10px 0;
-    background-color: black;
+    background-image: linear-gradient(rgb(34, 34, 34), black);
 }
 
 footer p {
@@ -13,4 +13,23 @@ footer p {
 
 footer p span{
     color: rgb(115, 115, 209);
+}
+
+footer ul{
+    margin: 0;
+    padding: 0 20px;
+    list-style: none;
+}
+
+footer ul li{
+    margin: 0;
+    padding: 0;
+    text-align: end;
+}
+
+footer a{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
 }
